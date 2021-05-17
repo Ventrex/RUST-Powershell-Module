@@ -8,6 +8,8 @@ Functions ToDo
 - Function Download-UMOD: Download UMOD
 - Function Install-RUST: Install RUST with given parameters  like -EnableUmod $true/$False -GameFolder C:\Servers\RUST 
 - Function Setup-RUST: Change default settings in RUST
-- Function Update-RUST: 
-- Function Validate-RUST
+- Function Update-RUST: Update RUST
+- Function Validate-RUST: Update RUST with validate option
+- Function Backup Rust: Create backup of rust files
+- Function RUST-Settings: Get RUST settings
  
